@@ -18,5 +18,6 @@ def trifeca(word):
         return True
     else:
         return False
-            
-print(trifeca(word = '1122aabbcc4'))
+
+word = '1122aabbcc4'    
+print(trifeca(word))
